@@ -33,3 +33,4 @@ steps:
     InProgressScanActionType: '2'
     RemediationScanPreference: '2'
     BuildType: 'mvn'
+    PolicyFailAction: '0'
